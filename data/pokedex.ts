@@ -8701,7 +8701,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Phione",
 		types: ["Water"],
 		gender: "N",
-		baseStats: {hp: 80, atk: 80, def: 80, spa: 80, spd: 80, spe: 80},
+		baseStats: {hp: 90, atk: 80, def: 90, spa: 80, spd: 90, spe: 80},
 		abilities: {0: "Hydration"},
 		heightm: 0.4,
 		weightkg: 3.1,
